@@ -1,0 +1,1 @@
+insert into course (course_id,title,dept_name,credits) values("CS-001","Weekly Seminar",null,0)
